@@ -33,7 +33,7 @@ Drawing Rectangles: For each detected face, a green rectangle is drawn around it
 
 Displaying the Result: Displays the image with detected faces in a window.
 
-#Output
+## Output
 
 ![image](https://github.com/user-attachments/assets/62465ebb-942b-41d2-8195-8dba9110d84e)
 
